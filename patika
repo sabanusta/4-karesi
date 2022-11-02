@@ -1,0 +1,39 @@
+import java.util.*;
+
+
+class Main {
+  public static void main(String[] args) {
+
+    int n;
+    
+    int i;
+    
+  
+  
+    
+     
+    
+    Scanner scan =new Scanner(System.in);
+    System.out.println("Sınır sayısı giriniz");
+         
+      n=scan.nextInt();
+       for ( i =1 ; i<=n ; i*=5 ){
+        System.out.println(i);
+       }
+           
+          
+          
+        
+        
+        
+     }
+
+
+
+
+      
+  {
+    
+  }
+
+}
